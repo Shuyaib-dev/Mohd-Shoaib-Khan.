@@ -1,4 +1,4 @@
-/********** author : Mohd Shoaib Khan **********/
+cr/********** author : Mohd Shoaib Khan **********/
 /********** method : core css **********/
 /********** All Rights Reserved 2023 to: mohd khan  **********/
 
@@ -2048,99 +2048,6 @@ border: none;
   font-size: large;
   align-self: baseline;
 }
-
-
-/*best-practices*/
-
-#best-practices {
-  margin-top: 9rem;
-  height: 100vh;
-  background-color: #feffff;
-  align-items: center;
-  font-family: monospace;
-
-
-}
-
-#best-practices .row {
-  margin-top: 150px;
-  background-color: #feffff;
-  align-content: space-between;
-  align-items: baseline;
-}
-
-
-
-#best-practices h1 {
-  text-align: center;
-  letter-spacing: 0.5rem;
-  font-weight: 20;
-  font-size: 70px;
-  color: rgb(95, 95, 95);
-
-
-}
-
-#best-practices h1 i {
-  color: hwb(191 0% 29%);
-
-}
-
-
-@media only screen and (max-width: 640px) {
-  #best-practices  {
-      height:auto;
-      box-sizing: border-box;
-      background: linear-gradient(to right, #ffc8dd, #ffffff);
-  }
-}
-
-@media only screen and (max-width: 640px) {
-  #best-practices div {
-   
-   margin-top:4rem;
-   background: linear-gradient(to right, #ece9e6, #ffffff);
-   
-  }
-}
-.sec-best-practices {
-  background: #ffffff;
-}
-
-.sec-best-practices i {
-  display: block;
-  margin: auto;
-  width: 64px;
-  color: lightcoral;
-  align-items: baseline;
-  text-align: justify;
-
-}
-
-
-
-.sec-best-practices .fa-paint-brush {
-  width: 64px;
-  color: #7e3dff;
-}
-
-.sec-best-practices .fa-code {
-  width: 64px;
-  color: hwb(38 0% 40% / 0.994);
-}
-
-.sec-best-practices h2 {
-  margin: 1em 0;
-  text-align: center;
-}
-
-
-.sec-best-practices p {
-  text-align: justify;
-  text-align: center;
-}
-
-
 
 
 
